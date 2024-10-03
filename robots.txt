@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bethiasun.github.io/sitemap.xml
