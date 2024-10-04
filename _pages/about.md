@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a first year MPhil student at UNSW, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnicco](https://cgi.cse.unsw.edu.au/~morri/). Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science.
+Hi! I am a first year MPhil student at UNSW, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science.
 
 I am broadly interested in building cognitively-plausible computational models of human intelligence, seeking answers to questions like: 
 
