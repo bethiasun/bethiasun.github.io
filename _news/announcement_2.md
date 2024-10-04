@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I am excited to announce my first ever work, <a href="https://openreview.net/forum?id=oEVsxVdush">Soft Tensor Product Representations for Fully Continuous, Compositional Visual Representations</a> 
+I am excited to announce my first ever work, <a href="https://neurips.cc/virtual/2024/poster/93635">Soft Tensor Product Representations for Fully Continuous, Compositional Visual Representations</a>, 
 has been accepted at NeurIPS 2024!
