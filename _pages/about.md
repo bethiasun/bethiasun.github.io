@@ -22,9 +22,9 @@ Hi! I am a first year MPhil student at UNSW, advised by [Yang Song](https://cgi.
 
 I am broadly interested in building cognitively-plausible computational models of human intelligence, seeking answers to questions like: 
 
-<ul> 
-<li>**The Paradox of Cognition**: Can we mathematically formalise and build a computational model for a <i>unified</i> cognitive architecture that gives rise to a wide range of human abilities that presently seem to arise through either the neural or symbolic paradigms (e.g., for neural: fluidity, statistics-sensitivity and perceptual grounding, for symbolic: ). </li>
-<li>**How Humans Learn So Much From So Littlet**: </li>
+- **The Paradox of Cognition**: Can we mathematically formalise and build a computational model for a <i>unified</i> cognitive architecture that gives rise to a wide range of human abilities that presently seem to arise through either the neural or symbolic paradigms (e.g., for neural: fluidity, statistics-sensitivity and perceptual grounding, for symbolic: ).
+
+- **How Humans Learn So Much From So Littlet**: 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
