@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I am excited to announce my first ever work has been accepted at [NeurIPS 2024](https://nips.cc/Conferences/2024)! 
+date: 2024-11-25 16:11:00-0400
 inline: false
 related_posts: false
 ---
