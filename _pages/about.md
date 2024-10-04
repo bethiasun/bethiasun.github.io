@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Current location: Sydney, Australia #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
