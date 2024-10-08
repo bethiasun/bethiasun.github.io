@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending NeurIPS in-person this year. Please come say hi if you'd like to chat! :sparkles: :blush: 
+I will be attending NeurIPS in-person this year. Please come say hi if you'd like to chat! :sparkles: :blush: Details on my poster session slot to come soon... 
