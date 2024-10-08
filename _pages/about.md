@@ -23,6 +23,6 @@ Previously, I completed a dual B.S at the same institution in Mathematics and Co
 My research primarily focuses on building cognitively plausible deep learning models and draws inspiration from a wide range of fields, including mathematics, cognitive science, and the philosophy of mind. 
 For a more detailed overview of the interests driving my current research, please see the <a href="/interests">interests</a> section. 
 
-Outside of research, I enjoy snorkelling, film, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my friends (both feline and human). 
+Outside of research, I enjoy snorkelling, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my feline child. 
 
 I am always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
