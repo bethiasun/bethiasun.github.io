@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research Interests
+title: research
 description:
 nav: true
 nav_order: 2
