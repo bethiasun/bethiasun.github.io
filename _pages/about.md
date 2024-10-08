@@ -19,6 +19,12 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Hi! I am a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science. My research focuses primarily on deep learning, and is driven by the core belief that computational models of human intelligence should go beyond optimising arbitrary performance metrics and instead, aim to enhance <i> cognitive plausibility </i>. To build cognitively plausible deep learning models, I draw inspiration from formal mathematics, cognitive science, and the philosophy of mind. For a more detailed overview of my work, please scroll down to the 'Research Interests' section. 
+Hi! I am a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). 
+Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science. My research focuses primarily on deep learning, and is driven by the core belief that computational models of human intelligence should go 
+<i> beyond </i> optimising arbitrary performance metrics and instead, aim to enhance <i> cognitive plausibility</i>. 
+To build cognitively plausible deep learning models, I draw inspiration from formal mathematics, cognitive science, and the philosophy of mind. 
+For a more detailed overview of my work, please scroll down to the 'Research Interests' section. 
+
 I love discussing a random variety of topics, so feel free to reach out if you're interested in having a chat!
-Outside of research, I enjoy snorkelling, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my sassy feline child. 
+
+Outside of research, I enjoy snorkelling, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my friends (both feline and human). 
