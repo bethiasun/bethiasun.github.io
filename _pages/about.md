@@ -26,8 +26,8 @@ I am a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://c
 Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science. My research focuses primarily on deep learning, and is driven by the core belief that computational models of human intelligence should go 
 <i> beyond </i> optimising arbitrary performance metrics and instead, aim to enhance <i> cognitive plausibility</i>. 
 To build cognitively plausible deep learning models, I draw inspiration from formal mathematics, cognitive science, and the philosophy of mind. 
-For a more detailed overview of the interests driving my current research, please see the <a href="/interests"> Interests </a> section. 
-
-I am always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
+For a more detailed overview of the interests driving my current research, please see the <a href="/interests">interests</a> section. 
 
 Outside of research, I enjoy snorkelling, film, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my friends (both feline and human). 
+
+I am always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
