@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
-    #<p>555 your office number</p>
+    bethia.sun@unsw.edu.au
     #<p>123 your address street</p>
     #<p>Your City, State 12345</p>
 
@@ -25,6 +25,6 @@ Previously, I completed a dual B.S at the same institution in Mathematics and Co
 To build cognitively plausible deep learning models, I draw inspiration from formal mathematics, cognitive science, and the philosophy of mind. 
 For a more detailed overview of the interests driving my current research, please see the <a href="/interests"> Interests </a> section. 
 
-I love discussing a random variety of topics, so feel free to reach out if you're interested in having a chat!
+I am always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
 
-Outside of research, I enjoy snorkelling, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my friends (both feline and human). 
+Outside of research, I enjoy snorkelling, film, travelling absurd distances in the hope of acquiring vegan-friendly baked goods and desserts, and spending time with my friends (both feline and human). 

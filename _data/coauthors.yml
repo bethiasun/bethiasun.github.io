@@ -1,7 +1,7 @@
 "song":
-  - firstname: ["Yang", "Y.Song", "Y.S.", "Yang Song"]
+  - firstname: ["Yang", "Y.Song", "Y.S", "Yang Song"]
     url: https://cgi.cse.unsw.edu.au/~ysong/
 
 "pagnucco":
-  - firstname: ["Maurice", "M.Pagnucco", "M. P.", "Maurice Pagnucco"]
+  - firstname: ["Maurice", "M.Pagnucco", "M.P", "Maurice Pagnucco"]
     url: https://cgi.cse.unsw.edu.au/~morri/
