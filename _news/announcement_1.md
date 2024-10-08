@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am taking leave until December, 2024.
+I am on leave until the start of 2025.
