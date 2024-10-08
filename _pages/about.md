@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: home
 permalink: /
 subtitle: #<a href='bethia.sun@unsw.edu.au'>Contact</a> | Sydney, Australia
