@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /interests/
+title: interests
 description:
 nav: true
 nav_order: 2
