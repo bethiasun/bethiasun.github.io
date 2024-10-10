@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-Hi! I am a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). 
+Hi! I'm a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). 
 Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science with High Distinction and an award for mathematical optimisation. I am driven by the core belief that computational models of intelligence should go 
 <i>beyond</i> optimising arbitrary performance metrics and instead, aim to enhance <i>cognitive plausibility</i>. 
 My research primarily focuses on building <i>mathematically formalised, cognitively plausible</i> deep learning models and draws inspiration from a wide range of fields, including mathematics, cognitive science, developmental psychology, and the philosophy of mind.
@@ -25,4 +25,4 @@ For a more detailed overview of the interests driving my current work, please se
 
 Outside of research, I enjoy snorkelling, scavenger-hunting for vegan-friendly baked goods and desserts, and spending time with (<a href="/child">feline</a> and human) friends.
 
-I am always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
+I'm always happy to discuss a variety of random topics, so feel free to <a href="mailto:bethia.sun@unsw.edu.au">reach out</a> if you're interested in having a chat!
