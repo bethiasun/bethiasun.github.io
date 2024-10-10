@@ -6,7 +6,7 @@ subtitle: #<a href='bethia.sun@unsw.edu.au'>Contact</a> | Sydney, Australia
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
   more_info: 👩🏻‍🔬 🧠 🤖 
     #<p>123 your address street</p>
