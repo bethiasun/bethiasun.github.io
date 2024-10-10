@@ -4,4 +4,11 @@ title: child
 permalink: /child/
 ---
 
-<img src="../assets/img/child/child1.jpg">
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/child/child2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/child/child1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
