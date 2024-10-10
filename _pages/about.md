@@ -8,7 +8,7 @@ profile:
   align: right
   image:
   image_circular: false # crops the image to make it circular
-  more_info: 👩🏻‍🔬 🧠 🤖 
+  more_info:
     #<p>123 your address street</p>
     #<p>Your City, State 12345</p>
 
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 Hi! I'm a first year MPhil student at UNSW Sydney, advised by [Yang Song](https://cgi.cse.unsw.edu.au/~ysong/) and [Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/). 
-Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science with High Distinction and an award for mathematical optimisation. I am driven by the core belief that computational models of intelligence should go 
+Previously, I completed a dual B.S at the same institution in Mathematics and Computer Science. I am driven by the core belief that computational models of intelligence should go 
 <i>beyond</i> optimising arbitrary performance metrics and instead, aim to enhance <i>cognitive plausibility</i>. 
 My research primarily focuses on building <i>mathematically formalised, cognitively plausible</i> deep learning models and draws inspiration from a wide range of fields, including mathematics, cognitive science, developmental psychology, and the philosophy of mind.
 For a more detailed overview of the interests driving my current work, please see the <a href="/interests">interests</a> section. 
